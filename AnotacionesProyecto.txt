@@ -1,0 +1,42 @@
+Boceto por cada pantalla
+Wireframe -> Balsamiq-> NO
+Sig paso:
+	Mockup -> Proto.io
+		Invision, Avocode, Sketch
+	Diagrama de clases
+	Tablas -> En pape, ej de los cursos, cuantos cursos puede tene c user
+
+Nombre: Vive Limpio
+Login - Sign up
+Notificaciones
+	Cambios de horario
+	Programar alarmas
+	Tiempo aprox de llegada
+Reporte de personas por la app acerca de puntos con demasiada basura -> Con foto/video
+Sección de programas de sensibilización y talleres educativos de higiene -> Ligado a la seccion eventos, sabias que? y articulos educativos 
+Acumulación de puntos -> Cambio por bonos conjunto con alcaldía -> Limitado
+Lideres sociales y comunales
+
+Tablas: 
+	admin
+	usuarios -> Correo, telefono, lugar de residencia
+	Vehiculos -> Ubicacion, id,  #Zona actual
+	Zonas -> Horarios por barrio, Nombre, id por zona
+	________________________
+	
+	operadores -> Vehiculo, placa, ruta, horario ANOTACION: El conductor debe tener la app
+	foro -> comentarios, fotos, videos, puntuación
+	eventos -> Nombre, Direccion, Contacto, Imagen, Prioridad
+
+Tentativo -> Reciclaje, mapa tipo Uber
+
+_____________________________________________________________________________
+
+Link Importante: tinyurl.com/material186
+_____________________________________________________________________________
+
+django-admin.py startproject backend
+para crear la carpeta llamada backend
+
+para crear la aplicacion se entra a la carpeta backend
+con el cmd 'cd'
