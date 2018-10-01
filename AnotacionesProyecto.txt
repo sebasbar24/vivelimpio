@@ -38,5 +38,6 @@ _____________________________________________________________________________
 django-admin.py startproject backend
 para crear la carpeta llamada backend
 
+python manage.py startapp <nombre>
 para crear la aplicacion se entra a la carpeta backend
 con el cmd 'cd'
